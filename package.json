@@ -1,0 +1,27 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/router": "^1.5.0",
+    "aos": "^3.0.0-beta.6",
+    "core-js": "^3.8.2",
+    "lodash": "^4.17.20",
+    "nuxt": "^2.14.12",
+    "vueperslides": "^2.12.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "fibers": "^5.0.0",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.1.0",
+    "sass": "^1.32.5",
+    "sass-loader": "^10.1.1"
+  }
+}

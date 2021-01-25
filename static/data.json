@@ -1,0 +1,286 @@
+{
+    "recipes": [{
+            "Id": "1",
+            "title": "Fırında Lor Peynirli İnce Pizza",
+            "image": "https://images.unsplash.com/photo-1468782305526-213f81758ef0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjExMjg3M30",
+            "ings": ["un", "all", "maya", "yumurta", "peynir", "su"],
+            "shortdesc": "It s short desc. for recipe",
+            "cats": ["cat1", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+        },
+        {
+            "Id": "2",
+            "title": "Cafe De Paris Soslu Fırında Beyaz Peynirli Pizza",
+            "image": "https://images.unsplash.com/photo-1468782305526-213f81758ef0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjExMjg3M30",
+            "ings": ["un", "all"],
+            "shortdesc": "It s short desc. for recipe2",
+            "cats": ["cat2", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+
+        },
+        {
+            "Id": "3",
+            "title": "Lasagna -3",
+            "image": "https://picjumbo.com/wp-content/uploads/fried-eggs-2210x1475.jpg",
+            "ings": ["all", "maya", "yumurta"],
+            "shortdesc": "It s short desc. for recipe3",
+            "cats": ["cat3", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+
+        },
+        {
+            "Id": "4",
+            "title": "Lasagna -4",
+            "image": "https://picjumbo.com/wp-content/uploads/fried-eggs-2210x1475.jpg",
+            "ings": ["un", "all", "maya", "yumurta"],
+            "shortdesc": "It s short desc. for recipe4",
+            "cats": ["cat1", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+
+        },
+
+        {
+            "Id": "5",
+            "title": "Lasagna -5",
+            "image": "https://picjumbo.com/wp-content/uploads/fried-eggs-2210x1475.jpg",
+            "ings": ["all", "yumurta", "peynir"],
+            "shortdesc": "It s short desc. for recipe5",
+            "cats": ["cat2", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+        },
+        {
+            "Id": "6",
+            "title": "Lasagna -6",
+            "image": "https://picjumbo.com/wp-content/uploads/fried-eggs-2210x1475.jpg",
+            "ings": ["un", "all", "maya", "yumurta"],
+            "shortdesc": "It s short desc. for recipe 6",
+            "cats": ["cat2", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+        },
+        {
+            "Id": "7",
+            "title": "Lasagna -7",
+            "image": "https://picjumbo.com/wp-content/uploads/fried-eggs-2210x1475.jpg",
+            "ings": ["un", "all", "maya", "yumurta"],
+            "shortdesc": "It s short desc. for recipe 7",
+            "cats": ["cat1", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+
+        },
+        {
+            "Id": "8",
+            "title": "Lasagna -8",
+            "image": "https://picjumbo.com/wp-content/uploads/fried-eggs-2210x1475.jpg",
+            "ings": ["un", "all", "maya", "yumurta"],
+            "shortdesc": "It s short desc. for recipe8",
+            "cats": ["cat2", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+
+        },
+        {
+            "Id": "9",
+            "title": "Lasagna -9",
+            "image": "https://picjumbo.com/wp-content/uploads/fried-eggs-2210x1475.jpg",
+            "ings": ["un", "all", "maya", "yumurta"],
+            "shortdesc": "It s short desc. for recipe9",
+            "cats": ["cat3", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+
+        },
+        {
+            "Id": "10",
+            "title": "Lasagna 10",
+            "image": "https://picjumbo.com/wp-content/uploads/fried-eggs-2210x1475.jpg",
+            "ings": ["un", "all", "maya", "yumurta"],
+            "shortdesc": "It s short desc. for recipe",
+            "cats": ["cat2", "all"],
+            "desc": "2Aenean a risus in sem elementum consequat. Sed tristique laoreet arcu ut mollis. Integer lorem odio, bibendum eget metus a, egestas dignissim erat. Sed ac lorem id elit pretium ultrices. Pellentesque placerat, nisi eget faucibus bibendum, magna purus porttitor erat, ut imperdiet tortor felis et risus. Curabitur sit amet enim molestie, posuere augue sit amet, accumsan ligula. Donec ac urna in metus condimentum consequat auctor maximus tellus."
+
+        }
+    ],
+    "ings": [{
+            "Id": "1",
+            "ings": "un",
+            "ingstitle": "İçerik 1"
+        },
+        {
+            "Id": "2",
+            "ings": "yumurta",
+            "ingstitle": "İçerik 2"
+        },
+        {
+            "Id": "3",
+            "ings": "peynir",
+            "ingstitle": "İçerik 3"
+        },
+        {
+            "Id": "4",
+            "ings": "maya",
+            "ingstitle": "İçerik 4"
+        }
+    ],
+    "categories": [{
+            "cats": "all",
+            "catsname": "Tüm Kategoriler"
+        },
+        {
+            "cats": "cat1",
+            "catsname": "'Kategori 2'"
+        },
+        {
+            "cats": "cat2",
+            "catsname": "'Kategori 3'"
+        },
+        {
+            "cats": "cat3",
+            "catsname": "'Kategori 4'"
+        }
+
+    ],
+    "recommends": [{
+            "title": "El Teide Volcano, Spain",
+            "content": "'Photo by Max Rive'",
+            "image": "https://picjumbo.com/wp-content/uploads/fried-eggs-2210x1475.jpg",
+            "link": "https://www.maxrivephotography.com/index/C0000rU1RKCHdqwI/G0000X57AtIzuRX0/I0000Gvr9HqdtyXk"
+        },
+        {
+            "title": "'El Teide Volcano, Spain'",
+            "content": "'Photo by Max Rive'",
+            "image": "./src/assets/example-image-3.jpg",
+            "link": "https://www.maxrivephotography.com/index/C0000rU1RKCHdqwI/G0000X57AtIzuRX0/I0000Gvr9HqdtyXk"
+        },
+        {
+            "title": "'El Teide Volcano, Spain'",
+            "content": "'Photo by Max Rive'",
+            "image": "require('@/assets/example-image-1.jpg')",
+            "link": "https://www.maxrivephotography.com/index/C0000rU1RKCHdqwI/G0000X57AtIzuRX0/I0000Gvr9HqdtyXk"
+        },
+        {
+            "title": "'El Teide Volcano, Spain'",
+            "content": "'Photo by Max Rive'",
+            "image": "require('@/assets/example-image-3.jpg')",
+            "link": "https://www.maxrivephotography.com/index/C0000rU1RKCHdqwI/G0000X57AtIzuRX0/I0000Gvr9HqdtyXk"
+        },
+        {
+            "title": "'El Teide Volcano, Spain'",
+            "content": "'Photo by Max Rive'",
+            "image": "require('@/assets/example-image-2.jpg')",
+            "link": "https://www.maxrivephotography.com/index/C0000rU1RKCHdqwI/G0000X57AtIzuRX0/I0000Gvr9HqdtyXk"
+        },
+        {
+            "title": "'El Teide Volcano, Spain'",
+            "content": "'Photo by Max Rive'",
+            "image": "require('@/assets/example-image-2.jpg')",
+            "link": "https://www.maxrivephotography.com/index/C0000rU1RKCHdqwI/G0000X57AtIzuRX0/I0000Gvr9HqdtyXk"
+        }
+    ],
+    "tricks": [{
+            "Id": 1,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Intermadiate", "all"]
+        },
+        {
+            "Id": 2,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Advanced", "all"]
+        },
+        {
+            "Id": 3,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Intermadiate", "all"]
+        },
+        {
+            "Id": 4,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Beginner", "all"]
+        },
+        {
+            "Id": 5,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Beginner", "all"]
+        },
+        {
+            "Id": 6,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Advanced", "all"]
+        },
+        {
+            "Id": 7,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Intermadiate", "all"]
+        },
+        {
+            "Id": 8,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Beginner", "all"]
+        },
+        {
+            "Id": 9,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Intermadiate", "all"]
+        },
+        {
+            "Id": 10,
+            "title": "For Best Pasta Cream",
+            "desc": "Everyone can cook Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida sapien quis justo pretium, id bibendum ex accumsan.",
+            "levels": ["Advanced", "all"]
+        }
+    ],
+    "levels": [
+        {
+            "Id": "0",
+            "levels": "all"
+        },{
+            "Id": "1",
+            "levels": "Beginner"
+        },
+        {
+            "Id": "2",
+            "levels": "Intermadiate"
+        },
+        {
+            "Id": "2",
+            "levels": "Advanced"
+        }
+
+    ],
+    "blogs": [
+        {
+            "Id": 0,
+            "date": "10.05.2018",
+            "title": "How To Use Spells1",
+            "author": "Hermione Grange",
+            "desc": "Bespoke distillery lomo, activated charcoal sustainable pork belly art party scenester locavore. Literally typewriter asymmetrical, pork belly locavore helvetica scenester meditation squid before they sold out. Mustache celiac bespoke freegan, butcher polaroid vaporware la croix hot chicken sartorial pitchfork PBR&B. Fingerstache fashion axe polaroid, schlitz kitsch banh mi tote bag coloring book meh iPhone williamsburg squid locavore. Leggings subway tile cliche craft beer beard, cornhole lyft thundercats disrupt twee dreamcatcher sriracha chia. Williamsburg humblebrag meditation ethical disrupt authentic. YOLO sartorial subway tile squid.<\/p>\r\n<p>\r\nAffogato coloring book live-edge banjo letterpress brunch, chicharrones wayfarers chia asymmetrical. Gluten-free hella poutine taxidermy, put a bird on it next level twee food truck williamsburg crucifix retro chillwave humblebrag selvage subway tile. Vape trust fund fam venmo. YOLO typewriter mlkshk, leggings ennui mustache gochujang disrupt tousled. Crucifix fam lyft meggings. Austin scenester fam, iceland hammock hoodie kitsch tacos. Ramps activated charcoal tumeric, copper mug try-hard kickstarter la croix pop-up.\r\n<\/p>\r\n<p>\r\nPBR&B brunch iPhone whatever irony, cronut poke heirloom. Man bun leggings green juice quinoa glossier listicle activated charcoal, you probably haven't heard of them coloring book. Try-hard meggings raclette bitters fanny pack, literally lomo single-origin coffee +1 vice. Photo booth unicorn flannel umami, church-key whatever swag aesthetic cliche bushwick mixtape literally you probably haven't heard of them snackwave edison bulb. Ugh iceland jean shorts chia mixtape vexillologist. Mlkshk polaroid quinoa four dollar toast, gastropub succulents vape you probably haven't heard of them viral artisan butcher. Post-ironic put a bird on it organic microdosing, meh craft beer raclette."
+        },
+        {
+            "Id": 1,
+            "date": "20.03.2020",
+            "title": "Homeworks Boring",
+            "author": "Ron Weasley",
+            "desc": "Bespoke distillery lomo, activated charcoal sustainable pork belly art party scenester locavore. Literally typewriter asymmetrical, pork belly locavore helvetica scenester meditation squid before they sold out. Mustache celiac bespoke freegan, butcher polaroid vaporware la croix hot chicken sartorial pitchfork PBR&B. Fingerstache fashion axe polaroid, schlitz kitsch banh mi tote bag coloring book meh iPhone williamsburg squid locavore. Leggings subway tile cliche craft beer beard, cornhole lyft thundercats disrupt twee dreamcatcher sriracha chia. Williamsburg humblebrag meditation ethical disrupt authentic. YOLO sartorial subway tile squid.<\/p>\r\n<p>\r\nAffogato coloring book live-edge banjo letterpress brunch, chicharrones wayfarers chia asymmetrical. Gluten-free hella poutine taxidermy, put a bird on it next level twee food truck williamsburg crucifix retro chillwave humblebrag selvage subway tile. Vape trust fund fam venmo. YOLO typewriter mlkshk, leggings ennui mustache gochujang disrupt tousled. Crucifix fam lyft meggings. Austin scenester fam, iceland hammock hoodie kitsch tacos. Ramps activated charcoal tumeric, copper mug try-hard kickstarter la croix pop-up.\r\n<\/p>\r\n<p>\r\nPBR&B brunch iPhone whatever irony, cronut poke heirloom. Man bun leggings green juice quinoa glossier listicle activated charcoal, you probably haven't heard of them coloring book. Try-hard meggings raclette bitters fanny pack, literally lomo single-origin coffee +1 vice. Photo booth unicorn flannel umami, church-key whatever swag aesthetic cliche bushwick mixtape literally you probably haven't heard of them snackwave edison bulb. Ugh iceland jean shorts chia mixtape vexillologist. Mlkshk polaroid quinoa four dollar toast, gastropub succulents vape you probably haven't heard of them viral artisan butcher. Post-ironic put a bird on it organic microdosing, meh craft beer raclette."
+        },
+        {
+            "Id": 2,
+            "date": "16.01.2020",
+            "title": "How Did I enter Hogwarts",
+            "author":"Hermione Grange",
+            "desc": "Bespoke distillery lomo, activated charcoal sustainable pork belly art party scenester locavore. Literally typewriter asymmetrical, pork belly locavore helvetica scenester meditation squid before they sold out. Mustache celiac bespoke freegan, butcher polaroid vaporware la croix hot chicken sartorial pitchfork PBR&B. Fingerstache fashion axe polaroid, schlitz kitsch banh mi tote bag coloring book meh iPhone williamsburg squid locavore. Leggings subway tile cliche craft beer beard, cornhole lyft thundercats disrupt twee dreamcatcher sriracha chia. Williamsburg humblebrag meditation ethical disrupt authentic. YOLO sartorial subway tile squid.<\/p>\r\n<p>\r\nAffogato coloring book live-edge banjo letterpress brunch, chicharrones wayfarers chia asymmetrical. Gluten-free hella poutine taxidermy, put a bird on it next level twee food truck williamsburg crucifix retro chillwave humblebrag selvage subway tile. Vape trust fund fam venmo. YOLO typewriter mlkshk, leggings ennui mustache gochujang disrupt tousled. Crucifix fam lyft meggings. Austin scenester fam, iceland hammock hoodie kitsch tacos. Ramps activated charcoal tumeric, copper mug try-hard kickstarter la croix pop-up.\r\n<\/p>\r\n<p>\r\nPBR&B brunch iPhone whatever irony, cronut poke heirloom. Man bun leggings green juice quinoa glossier listicle activated charcoal, you probably haven't heard of them coloring book. Try-hard meggings raclette bitters fanny pack, literally lomo single-origin coffee +1 vice. Photo booth unicorn flannel umami, church-key whatever swag aesthetic cliche bushwick mixtape literally you probably haven't heard of them snackwave edison bulb. Ugh iceland jean shorts chia mixtape vexillologist. Mlkshk polaroid quinoa four dollar toast, gastropub succulents vape you probably haven't heard of them viral artisan butcher. Post-ironic put a bird on it organic microdosing, meh craft beer raclette."
+        },
+        {
+            "Id": 3,
+            "date": "30.10.2020",
+            "author": "Harry Potter",
+            "title": "Missed People",
+            "desc": "Bespoke distillery lomo, activated charcoal sustainable pork belly art party scenester locavore. Literally typewriter asymmetrical, pork belly locavore helvetica scenester meditation squid before they sold out. Mustache celiac bespoke freegan, butcher polaroid vaporware la croix hot chicken sartorial pitchfork PBR&B. Fingerstache fashion axe polaroid, schlitz kitsch banh mi tote bag coloring book meh iPhone williamsburg squid locavore. Leggings subway tile cliche craft beer beard, cornhole lyft thundercats disrupt twee dreamcatcher sriracha chia. Williamsburg humblebrag meditation ethical disrupt authentic. YOLO sartorial subway tile squid.<\/p>\r\n<p>\r\nAffogato coloring book live-edge banjo letterpress brunch, chicharrones wayfarers chia asymmetrical. Gluten-free hella poutine taxidermy, put a bird on it next level twee food truck williamsburg crucifix retro chillwave humblebrag selvage subway tile. Vape trust fund fam venmo. YOLO typewriter mlkshk, leggings ennui mustache gochujang disrupt tousled. Crucifix fam lyft meggings. Austin scenester fam, iceland hammock hoodie kitsch tacos. Ramps activated charcoal tumeric, copper mug try-hard kickstarter la croix pop-up.\r\n<\/p>\r\n<p>\r\nPBR&B brunch iPhone whatever irony, cronut poke heirloom. Man bun leggings green juice quinoa glossier listicle activated charcoal, you probably haven't heard of them coloring book. Try-hard meggings raclette bitters fanny pack, literally lomo single-origin coffee +1 vice. Photo booth unicorn flannel umami, church-key whatever swag aesthetic cliche bushwick mixtape literally you probably haven't heard of them snackwave edison bulb. Ugh iceland jean shorts chia mixtape vexillologist. Mlkshk polaroid quinoa four dollar toast, gastropub succulents vape you probably haven't heard of them viral artisan butcher. Post-ironic put a bird on it organic microdosing, meh craft beer raclette."
+        }
+    ]
+}

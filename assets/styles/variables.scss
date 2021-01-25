@@ -1,0 +1,420 @@
+/* Colors */
+
+$pink: #FB4060;
+$beige:#FE855F;
+$sand: #FFE0B5;
+$lightbrown: #735751;
+$brown: #462521;
+
+/* fonts */
+
+@font-face {
+    font-family: "Merriweather";
+    src: url(~assets/fonts/Merriweather-Regular.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url(~assets/fonts/Montserrat-Medium.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url(~assets/fonts/Montserrat-Regular.ttf);
+    font-weight: 500;
+}
+
+h1 {
+    font-family: Merriweather;
+    font-weight: 900;
+    font-size: 52px;
+    color: $brown;
+    text-transform: uppercase;
+    margin: 0
+}
+
+h2 {
+    font-family: Merriweather;
+    font-weight: 500;
+    font-size: 42px;
+    color: $lightbrown;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: Merriweather;
+    font-weight: 600;
+    font-size: 38px;
+    color: $brown;
+    text-transform: capitalize;
+}
+
+h4 {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 32px;
+    color: $lightbrown;
+    margin: 0;
+}
+
+h5 {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 32px;
+    color: $brown;
+    margin: 24px 0;
+}
+
+h6 {
+    font-family: Merriweather;
+    font-weight: 900;
+    font-size: 20px;
+    color: $brown;
+    margin: 8px 0;
+}
+
+p {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 20px;
+    color: $lightbrown;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.logo-text {
+    font-family: Montserrat;
+    font-weight: 900;
+    font-size: 20px;
+    color: $brown;
+}
+
+
+/* Buttons */
+.vbutton {
+    margin: .75em 0;
+    padding: .75em 1.75em;
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: Merriweather;
+    font-weight: 900;
+    cursor: pointer;
+
+}
+
+.vbutton-default {
+    border: 1px solid $pink;
+    color: $sand;
+    background-color: $pink;
+
+    :hover {
+        background-color: $lightbrown;
+    }
+
+    :active {
+        background-color: $beige;
+    }
+}
+
+.vbutton-opacity {
+    border: 1px solid $pink;
+    color: $pink;
+    background-color: white;
+}
+
+.vbutton-start {
+    align-self: flex-start;
+}
+
+.vbutton-end {
+    align-self: flex-end;
+}
+
+.vueperslide {
+    border: 2px solid $brown;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.vueperslide {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+
+.vueperslide__content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: white;
+    padding: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: $brown;
+    font-size: 18px;
+    font-family: Merriweather;
+    padding: 8px 0;
+    max-width: 160px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.content {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 12px;
+    color: $brown;
+    line-height: 1.5;
+    padding: 8px 0;
+    overflow: hidden;
+    text-align: left;
+    min-height: 64px;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    transform-origin: left;
+}
+
+span {
+    width: 100%;
+    text-align: right;
+}
+
+button {
+    font-size: 12px;
+    align-self: flex-end;
+}
+
+.vueperslides--fixed-height {
+    height: 400px;
+}
+
+.form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    .vtextbox {
+        display: flex;
+        margin: 4px 0;
+
+    }
+
+    span {
+        font-family: Montserrat;
+        font-weight: 500;
+        font-size: 14px;
+        color: $brown;
+        text-align: left;
+    }
+
+    .vlabel {
+        min-width: 160px;
+        display: inline-flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        padding: 8px 0;
+
+    }
+
+    .vinput {
+        border-radius: 4px;
+        border: 1px solid rgba($lightbrown, .6);
+        padding: 8px;
+        margin: 8px 0;
+        min-width: 280px;
+        -webkit-box-shadow: 2px 2px 6px 0px rgba($lightbrown, 0.4);
+        -moz-box-shadow: 2px 2px 6px 0px rgba($lightbrown, 0.4);
+        box-shadow: 2px 2px 6px 0px rgba($lightbrown, 0.4);
+
+        &:hover {
+            border:1px solid $beige;
+            -webkit-box-shadow: 2px 2px 6px 0px rgba($beige, 0.4);
+        -moz-box-shadow: 2px 2px 6px 0px rgba($beige, 0.4);
+        box-shadow: 2px 2px 6px 0px rgba($beige, 0.4);
+        }
+
+        &:focus {
+            border: 2px solid $pink;
+        }
+    }
+
+    .vtextarea {
+        border: 1px solid rgba($lightbrown, .6);
+        border-radius: 6px;
+        padding: 8px;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin: 8px 0;
+        min-width: 280px;
+        height: 96px;
+        -webkit-box-shadow: 2px 2px 6px 0px rgba($lightbrown, 0.4);
+        -moz-box-shadow: 2px 2px 6px 0px rgba($lightbrown, 0.4);
+        box-shadow: 2px 2px 6px 0px rgba($lightbrown, 0.4);
+
+        &:hover {
+            border:1px solid $beige;
+            -webkit-box-shadow: 2px 2px 6px 0px rgba($beige, 0.4);
+        -moz-box-shadow: 2px 2px 6px 0px rgba($beige, 0.4);
+        box-shadow: 2px 2px 6px 0px rgba($beige, 0.4);
+        }
+
+        &:focus {
+            border: 2px solid $pink;
+        }
+    }
+}
+
+/* breakpoints */
+@mixin breakpoint($point) {
+    @if $point==desktop {
+        @media (min-width: 70em) {
+            @content;
+        }
+    }
+
+    @else if $point==laptop {
+        @media (min-width: 64em) {
+            @content;
+        }
+    }
+
+    @else if $point==tablet {
+        @media (max-width: 50em) {
+            @content;
+        }
+    }
+
+    @else if $point==phablet {
+        @media (min-width: 37.5em) {
+            @content;
+        }
+    }
+
+    @else if $point==mobile {
+        @media (max-width: 37.5em) {
+            @content;
+        }
+    }
+}
+
+
+.myNavbar {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    position: relative;
+    align-items: baseline;
+    margin: 16px;
+    @include breakpoint(mobile) {
+        align-items: center;
+    }
+
+    a {
+        text-decoration: none;
+        padding: 8px;
+        position: relative;
+        display: flex;
+        color: $brown;
+        padding-right: 16px;
+        font-size: 14px;
+        font-family: Montserrat;
+        font-weight: 400;
+    }
+    >#navcheck {
+        display: none;
+
+        :not(checked) {
+            ~.navlinks {
+                height: 0;
+            }
+        }
+        &:checked {
+            +label {
+                display: inline;
+                flex: wrap;
+                flex-direction: column;
+                padding: 0;
+                position: absolute;
+                right: 0;
+                top: 56px;
+                width: 100%;
+                height: auto;
+                background:$beige;
+                color: $sand;
+                justify-content: center;
+                align-content: space-around;
+                visibility: visible;
+                opacity: 1;
+            }
+        }
+    }
+    >.navbutton {
+        display: none;
+        position: relative;
+
+        @include breakpoint(mobile) {
+            display: inline-flex;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            label {
+                display: inline-flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                width: 40px;
+                height: 40px;
+                padding: 4px;
+                background-color:$pink;
+
+                &:hover {
+                    background: rgba(56, 77, 141, 0.2);
+                    transition: all 2s ease-in;
+                }
+
+                >span {
+                    display: flex;
+                    align-self: center;
+                    width: 24px;
+                    height: 2px;
+                    border-top: 2px solid #eee;
+                }
+            }
+        }
+    }
+    >.navlinks {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        
+
+        @include breakpoint(mobile) {
+            position: absolute;
+            top: 56px;
+            visibility: hidden;
+            opacity: 0;
+            transition: visibility .3s linear,opacity .3s linear;;
+           
+        }
+    }
+}
