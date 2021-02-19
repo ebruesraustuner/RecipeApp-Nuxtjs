@@ -398,7 +398,8 @@
       }
     }
   }
-
+.home-enter-active, .home-leave-active { transition: opacity .5s; }
+  .home-enter, .home-leave-active { opacity: 0; }
 </style>
 <script>
   import {
@@ -414,6 +415,7 @@ import Thefooter from '../layouts/Thefooter.vue';
     require('aos')
   }
   export default {
+    transitions: 'home',
     name: 'Home',
     layout: 'Theheader, Thefooter',
     components: {
